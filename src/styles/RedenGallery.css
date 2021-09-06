@@ -1,0 +1,12 @@
+/* container general de las imagenes */
+.container-redenGallery{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: cornsilk;
+}
